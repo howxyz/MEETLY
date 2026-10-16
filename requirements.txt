@@ -1,0 +1,18 @@
+fastapi>=0.110
+uvicorn[standard]
+itsdangerous
+authlib>=1.3
+httpx
+python-dotenv
+python-multipart
+markdown
+pydantic>=2
+google-genai
+openai>=2
+gdown
+google-cloud-firestore
+google-cloud-storage
+google-cloud-run
+google-auth
+requests
+weasyprint>=62   # the Meetly PDF of the minutes (needs the Pango system library)

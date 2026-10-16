@@ -1,0 +1,12 @@
+data/
+.env
+deploy.env
+env.yaml
+aws/.env
+__pycache__/
+*.pyc
+.git
+token.json
+credentials.json
+web/node_modules/
+web/.next/
