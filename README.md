@@ -7,7 +7,7 @@
 Upload a meeting recording. Meetly transcribes every word, writes the minutes,
 emails a branded PDF to everyone invited, and lets you ask the recording anything.
 
-### [🔴 Try the live demo](https://63-188-47-182.sslip.io/)
+### [🔴 Try the live demo](https://meetly.cyou)
 
 ![Meetly](docs/preview-cover.jpg)
 
