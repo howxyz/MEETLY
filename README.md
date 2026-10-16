@@ -94,5 +94,5 @@ Meetly is in its first public version. Feedback and ideas are welcome: open an i
 ---
 
 <div align="center">
-Designed, built and deployed by <b>Nujoom</b>.
+Designed, built and deployed by <b>Mhmd Shehab</b>.
 </div>
